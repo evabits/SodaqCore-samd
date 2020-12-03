@@ -1,0 +1,6 @@
+{
+    "name": "framework-arduino-samd-evabits",
+    "description": "Arduino Core for SAMD21 and SAMD51",
+    "url": "https://github.com/evabits/ArduinoCore-samd",
+    "version": "1.8.1"
+}
